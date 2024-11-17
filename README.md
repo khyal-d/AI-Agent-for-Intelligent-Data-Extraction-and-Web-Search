@@ -47,7 +47,8 @@ This project involves the development of an AI-driven application designed to fa
     from dotenv import load_dotenv
 
 4. Run the application using `streamlit run steps.py`.
-5. Access the dashboard via `http://localhost:port/` in your web browser.
+5. Use the provided csv files or personal csv files for input.
+6. Access the dashboard via `http://localhost:port/` in your web browser.
 
 ## Future Enhancements
 - Implement advanced error handling for API and data extraction processes.
