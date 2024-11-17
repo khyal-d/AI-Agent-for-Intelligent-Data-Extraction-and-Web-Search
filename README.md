@@ -35,7 +35,7 @@ This project involves the development of an AI-driven application designed to fa
 
 ## Installation and Usage
 
-1. Clone the repository.
+1. Clone the repository, or just download steps.py(since this file has the entire code).
 2. Import or Install these:
     import streamlit as st
     import pandas as pd
