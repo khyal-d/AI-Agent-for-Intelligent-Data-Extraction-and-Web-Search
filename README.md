@@ -36,9 +36,18 @@ This project involves the development of an AI-driven application designed to fa
 ## Installation and Usage
 
 1. Clone the repository.
-2. Install required dependencies via `pip install -r requirements.txt`.
-3. Run the application using `python steps.py`.
-4. Access the dashboard via `http://localhost:port/` in your web browser.
+2. Import or Install these:
+    import streamlit as st
+    import pandas as pd
+    from serpapi import GoogleSearch
+    import gspread
+    from google.oauth2.service_account import Credentials
+    import requests  # For calling the Groq API
+    import os
+    from dotenv import load_dotenv
+
+4. Run the application using `streamlit run steps.py`.
+5. Access the dashboard via `http://localhost:port/` in your web browser.
 
 ## Future Enhancements
 - Implement advanced error handling for API and data extraction processes.
@@ -49,4 +58,7 @@ This project involves the development of an AI-driven application designed to fa
 This project exemplifies the integration of generative AI within data extraction and web search processes, emphasizing innovation in user applications and technical implementation.
 
 ## Project Status Update
-I have not yet completed the "SmartSearch AI: Intelligent Data Extraction and Retrieval System" project due to ongoing college exams, which have required significant time and attention. However, I am committed to finishing the project soon. Thank you for your understanding and patience.
+I have not yet completed the "SmartSearch AI: Intelligent Data Extraction and Retrieval System" project due to ongoing college exams, which have required significant time and attention. However, I am committed to finishing the project before the year ends. Thank you for your understanding and patience.
+
+## Please consider me for the interview BREAKOUTAI and PAYTM
+
