@@ -59,7 +59,8 @@ This project involves the development of an AI-driven application designed to fa
 This project exemplifies the integration of generative AI within data extraction and web search processes, emphasizing innovation in user applications and technical implementation.
 
 ## Project Status Update
-I have not yet completed the "SmartSearch AI: Intelligent Data Extraction and Retrieval System" project due to ongoing college exams, which have required significant time and attention. However, I am committed to finishing the project before the year ends. Thank you for your understanding and patience.
+I have not yet completed the "SmartSearch AI: Intelligent Data Extraction and Retrieval System" project due to ongoing college exams, which have required significant time and attention. However, I am committed to finishing the project before the year ends. 
+Thank you for your understanding and patience, and do consider me for an interview.
 
 ## Special note for BREAKOUTAI and PAYTM
 Hey there PAYTM and BREAKOUTAI, I wanted to share that while my project is still a work in progress due to juggling college exams, I'm really excited about the possibility of interning at Paytm or Breakout AI. I'm passionate about AI and data solutions, and I'm enthusiastic about the chance to learn and contribute to your teams. I'd love to have the opportunity to interview and discuss how I can bring value to your projects. 
